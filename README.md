@@ -1,2 +1,0 @@
-# BoostYourSkills
-Site de formation
